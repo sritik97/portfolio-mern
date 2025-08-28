@@ -1,0 +1,32 @@
+#dark .sidebar-section {
+  background-color: #efdfd4ff;
+  color: white;
+}
+#dark .nav-link{
+ color: #070707ff ;
+}
+ #dark .sidebar{
+ background-color: #efdfd4ff;
+ color: #070707ff ;
+ }
+  #dark .theme-btn{
+ background-color: #efdfd4ff;
+ color: #070707ff ;
+ }
+#dark .home-content{
+ color: #070707ff ;
+ }
+ #dark .btn{
+ color: #070707ff ;
+}
+
+@media (max-width: 600px) {
+  .footer {
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+
+ 
